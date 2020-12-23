@@ -1,0 +1,49 @@
+body {
+    background-image: url("image/new.jpg");
+}
+
+
+#grades {
+    max-width: 900px;
+    max-height: 1000px;
+    margin: auto;   
+}
+
+
+input {
+    font-size: 40px;
+    border-radius: 20px;
+
+}
+
+input[type=number] {
+    text-align: right;
+    width: 250px;
+}
+
+
+
+h1 {
+    padding-bottom: 40px;
+    margin-top: 40px;
+    font-size: 4em;
+}
+
+
+input[type = button] {
+    width: 150px;
+    background-color: lightblue;
+
+}
+
+
+input[type = text ]{
+    width: 300px;
+}
+
+
+#demo
+{
+    padding: 30px;
+    font-size: 25px;
+}
